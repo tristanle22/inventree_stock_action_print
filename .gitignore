@@ -1,0 +1,3 @@
+# static files are generated from ../frontend directory
+static
+__pycache__
