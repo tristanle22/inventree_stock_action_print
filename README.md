@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StockEventReport
 
 Print report every stock event
@@ -24,7 +23,3 @@ pip install stockeventreport
 ## Usage
 
 ... todo ...
-=======
-# stock_action_print
-Inventree report printing on stock action
->>>>>>> a81185243e400b35032c29b413372199b885b972
