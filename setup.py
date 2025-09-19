@@ -46,4 +46,10 @@ setuptools.setup(
             "StockEventReport = stockeventreport.core:StockEventReport"
         ]
     },
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+        "Framework :: InvenTree",
+    ],
 )
+
